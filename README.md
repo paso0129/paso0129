@@ -8,7 +8,7 @@
 ### 🧑🏻‍💻 About me
 
 
-- I'm spring Developer 🐍 in 🇰🇷
+- I'm Spring Developer in 🇰🇷
 
 ### 💻 Skills
 
