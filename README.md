@@ -1,4 +1,4 @@
-### Hi there 👋 반갑읍니다.
+###  👋👋👋👋.
 
 ![우주](https://user-images.githubusercontent.com/50413112/105368338-c5250000-5c44-11eb-9a01-5a8c95186bba.jpg)
 
