@@ -11,7 +11,7 @@
 ```
 💳 PG 정산 자동화 & ERP 연동
 💰 수당지급 시스템 개발 & Firm Banking 연동
-☁️ Azure 기반 클라우드 네이티브 전환 (AKS, Key Vault)
+☁️ Azure 기반 클라우드 네이티브 전환 (VM -> AKS)
 🔄 GitOps 파이프라인 구축 (ArgoCD, Helm, GitHub Actions)
 ```
 
