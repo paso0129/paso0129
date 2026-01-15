@@ -1,35 +1,69 @@
-###  Hi there👋
+# Hey, I'm Jin 👋
 
-![우주](https://user-images.githubusercontent.com/50413112/105368338-c5250000-5c44-11eb-9a01-5a8c95186bba.jpg)
+**Backend Developer** specializing in **Financial Systems & Cloud-Native Architecture**
 
-<!--
-**paso0129/paso0129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+6년간 결제/정산 시스템을 설계하고, 레거시를 클라우드로 마이그레이션해왔습니다.
 
-### 🧑🏻‍💻 About me
+---
 
+### 🎯 What I Do
 
-- I'm Spring Developer in 🇰🇷
+```
+💳 PG 정산 자동화 & ERP 연동
+💰 수당지급 시스템 개발 & Firm Banking 연동
+☁️ Azure 기반 클라우드 네이티브 전환 (AKS, Key Vault)
+🔄 GitOps 파이프라인 구축 (ArgoCD, Helm, GitHub Actions)
+```
 
-### 💻 Skills
+---
 
-<img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+### 🛠 Tech Stack
 
+**Backend**
 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 
-### 🔨 Tools
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
+**Cloud & DevOps**
 
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-### 📮 Contact
-<a href="mailto:paso0129@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/paso0129"><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://steamcommunity.com/id/codelee/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>
+**Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+---
+
+### 💼 Experience Highlights
+
+| 영역 | 경험 |
+|-----|-----|
+| **정산 시스템** | PG사 정산 자동화, ERP 연동, 대사 처리 |
+| **수당지급 시스템** | Firm Banking H2H 연동, ISO 20022 기반 송금/결과 처리 |
+| **클라우드 전환** | VM → AKS 마이그레이션, Managed Identity |
+| **DevOps** | CI/CD 파이프라인, GitOps 워크플로우 구축 |
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=paso0129&show_icons=true&theme=nord&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paso0129&layout=compact&theme=nord&hide_border=true" />
+</p>
+
+---
+
+### 📫 Contact
+
+[![Gmail](https://img.shields.io/badge/paso0129@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:paso0129@gmail.com)
+[![GitHub](https://img.shields.io/badge/paso0129-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/paso0129)
