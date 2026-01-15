@@ -54,15 +54,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=paso0129&show_icons=true&theme=nord&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paso0129&layout=compact&theme=nord&hide_border=true" />
-</p>
-
----
-
 ### 📫 Contact
 
 [![Gmail](https://img.shields.io/badge/paso0129@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:paso0129@gmail.com)
