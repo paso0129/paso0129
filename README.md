@@ -1,60 +1,30 @@
-# Hey, I'm Jin 👋
+# 송민재 (Jin)
 
-**Backend Developer** specializing in **Financial Systems & Cloud-Native Architecture**
+**Backend Developer — 결제·정산·펌뱅킹**
 
-6년간 결제/정산 시스템을 설계하고, 레거시를 클라우드로 마이그레이션해왔습니다.
+Java와 Kotlin으로 결제, 정산, 지급처럼 돈이 오가는 시스템을 주로 만들어 왔습니다.
+지금은 피엠인터내셔널 한국 법인에서 회원 보너스 정산과 펌뱅킹 자동 지급, PG 결제와 정산 대사를 개발하고 있습니다.
 
----
+### 대표적으로 한 일
 
-### 🎯 What I Do
+- 매달 3만 건이 넘는 쿠콘 펌뱅킹 자동 지급 개발 (2024.08 오픈 뒤 은행 반려·재처리 0건)
+- 결제사 5곳 정산 대사 자동화, 시티·하나은행 H2H(ISO 20022 pain.001 / camt.053) 연동
+- 회원 서비스 My PMIK: 간편결제(W-Pay) 이식, 결제 확정 판정 보강, Android 앱 Google Play 심사 통과
+- VM·수동 배포 환경을 AKS·GitOps(GitHub Actions, Helm, ArgoCD)로 전환해 운영 중
 
-```
-💳 PG 정산 자동화 & ERP 연동
-💰 수당지급 시스템 개발 & Firm Banking 연동
-☁️ Azure 기반 클라우드 네이티브 전환 (VM -> AKS)
-🔄 GitOps 파이프라인 구축 (ArgoCD, Helm, GitHub Actions)
-```
+### Tech
 
----
+**Backend** · Java 17, Kotlin, Spring Boot, JPA/QueryDSL, WebFlux, MyBatis
+**Infra** · Kubernetes(AKS), Docker, Helm, ArgoCD, GitHub Actions, Azure Key Vault·Service Bus, AWS(ECS·Lambda)
+**Data** · PostgreSQL, MySQL, MSSQL, Redis
+**Observability** · Prometheus, Grafana, Loki
+**Front/Mobile** · Next.js, React, Ionic React, Capacitor
 
-### 🛠 Tech Stack
+### Side projects
 
-**Backend**
+- [calcpick](https://github.com/paso0129/calcpick) — 금융·생활 계산기 14종 (Next.js, Recharts) · [calcpick.com](https://www.calcpick.com)
+- [nexus-topic](https://github.com/paso0129/nexus-topic) — 트렌딩 토픽 수집 + LLM 기사 생성 파이프라인 (Python) · [nexustopic.com](https://www.nexustopic.com)
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+회사 업무 커밋은 비공개 조직 저장소에 있습니다 (최근 1년 약 2,000건).
 
-**Cloud & DevOps**
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-**Data**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
----
-
-### 💼 Experience Highlights
-
-| 영역 | 경험 |
-|-----|-----|
-| **정산 시스템** | PG사 정산 자동화, ERP 연동, 대사 처리 |
-| **수당지급 시스템** | Firm Banking H2H 연동, ISO 20022 기반 송금/결과 처리 |
-| **클라우드 전환** | VM → AKS 마이그레이션, Managed Identity |
-| **DevOps** | CI/CD 파이프라인, GitOps 워크플로우 구축 |
-
----
-
-### 📫 Contact
-
-[![Gmail](https://img.shields.io/badge/paso0129@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:paso0129@gmail.com)
-[![GitHub](https://img.shields.io/badge/paso0129-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/paso0129)
+📫 paso0129@gmail.com
