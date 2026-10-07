@@ -20,11 +20,6 @@ Java와 Kotlin으로 결제, 정산, 지급처럼 돈이 오가는 시스템을 
 **Observability** · Prometheus, Grafana, Loki
 **Front/Mobile** · Next.js, React, Ionic React, Capacitor
 
-### Side projects
-
-- [calcpick](https://github.com/paso0129/calcpick) — 금융·생활 계산기 14종 (Next.js, Recharts) · [calcpick.com](https://www.calcpick.com)
-- [nexus-topic](https://github.com/paso0129/nexus-topic) — 트렌딩 토픽 수집 + LLM 기사 생성 파이프라인 (Python) · [nexustopic.com](https://www.nexustopic.com)
-
 회사 업무 커밋은 비공개 조직 저장소에 있습니다 (최근 1년 약 2,000건).
 
 📫 paso0129@gmail.com
