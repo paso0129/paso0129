@@ -15,7 +15,7 @@ Java와 Kotlin으로 결제, 정산, 지급처럼 돈이 오가는 시스템을 
 ### Tech
 
 **Backend** · Java, Kotlin, Spring Boot, JPA/QueryDSL, WebFlux\
-**Infra** · Kubernetes(AKS), Docker, Helm, ArgoCD, GitHub Actions, Azure Key Vault·Service Bus, AWS(ECS·Lambda)\
+**Infra** · Kubernetes(AKS), Docker, Helm, ArgoCD, GitHub Actions, Azure Service Bus, AWS(ECS·Lambda)\
 **Data** · PostgreSQL, MySQL, MSSQL, Redis\
 **Observability** · Prometheus, Grafana, Loki\
 **Front/Mobile** · Next.js, React, Ionic React, Capacitor
